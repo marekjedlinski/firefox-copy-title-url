@@ -4,7 +4,7 @@
     "short_name": "Copy title and url",
     "description": "Add a context menu item to copy page title (or selected text) and url to clipboard.",
     "version": "1.2",
-    "homepage_url": "http://www.tranglos.com",
+    "homepage_url": "https://github.com/marekjedlinski/firefox-copy-title-url",
     "author": "Marek Jedliński",
 
     "background": {

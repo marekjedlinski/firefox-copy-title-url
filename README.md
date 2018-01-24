@@ -8,7 +8,7 @@ It should serve as a basic replacement for the fantastic ["QuoteURLText" extensi
 
 Heavily based on Mozilla example web extension project [context-menu-copy-link-with-types](https://github.com/mdn/webextensions-examples/tree/master/context-menu-copy-link-with-types)
 
-## Reqquirements
+## Requirements
 
 Firefox (Quantum) 57 or later. Developed and tested in Firefox 58.
 
@@ -29,4 +29,6 @@ If you hold down the Shift key while clicking the menu item, the extension will 
 
 Marek Jedliński
 marek.jedlinski@gmail.com
+github:
+https://github.com/marekjedlinski/firefox-copy-title-url
 
