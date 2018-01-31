@@ -1,4 +1,7 @@
-# Context menu: Copy page title (or selection) and url to clipboard
+## This repo is outdated/unmaintained. Please goto the current version here:
+https://github.com/marekjedlinski/webext-copy-title-url
+
+## Context menu: Copy page title (or selection) and url to clipboard
 
 This Firefox extension adds an item to the context menu which allows you to __copy the title and the url__ of the current page to clipboard. If any __text is selected on the page__, the selected text is copied instead of the title of the page (the url is always included).
 
